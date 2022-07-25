@@ -1,0 +1,25 @@
+.container {
+    background-color: aqua;
+    width:400px;
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#news_title , #news_img {
+    width:350px;
+}
+
+.news_content #news_content {
+    width:350px;
+    height:200px;
+}
+
+#add_news {
+    padding: 2px;
+    margin: 15px 180px 10px 150px;
+}
+
+#error_title {
+    color:red;
+}
